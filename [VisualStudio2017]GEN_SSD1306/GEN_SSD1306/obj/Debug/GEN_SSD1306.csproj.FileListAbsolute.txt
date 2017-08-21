@@ -1,0 +1,9 @@
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\bin\Debug\GEN_SSD1306.exe.config
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\bin\Debug\GEN_SSD1306.exe
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\bin\Debug\GEN_SSD1306.pdb
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.csprojResolveAssemblyReference.cache
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.Form1.resources
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.Properties.Resources.resources
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.csproj.GenerateResource.Cache
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.exe
+C:\Users\TardSu\Desktop\GEN_SSD1306\GEN_SSD1306\obj\Debug\GEN_SSD1306.pdb
